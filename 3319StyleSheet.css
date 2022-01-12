@@ -1,0 +1,40 @@
+body
+{
+	background: rgb(34,193,195);
+	background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+	font-family: 'Poller One', cursive;
+	color: #4169E1;
+}
+h5
+{
+	color: #4169E1;
+}
+h3
+{
+	font-family: 'Press Start 2P', cursive;
+	color: #0000CD;
+}
+h2
+{
+	font-family: 'Press Start 2P', cursive;
+	color: #000080;
+}
+input[type=submit] 
+{
+	padding:7px 15px; 
+	background:#00008B; 
+        border:0 none;
+        cursor:pointer;
+        -webkit-border-radius: 5px;
+        border-radius: 12px; 
+	color: #00FFFF;	
+	font-family: 'Poller One', cursive;
+}
+input[type=text] 
+{
+        padding:5px; 
+        border:2px solid #ccc; 
+        -webkit-border-radius: 5px;
+        border-radius: 5px;
+}
+
